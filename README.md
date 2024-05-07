@@ -1,5 +1,5 @@
 # Excel_Time_tracker
-## Download the Lates Version
+## Download the Latest Version
 This is my version of Time Tracker using the excel VBA Code download the excel file to experience the tracker
 
 ![Image1](images/Image1.jpg)
